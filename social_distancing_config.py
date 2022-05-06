@@ -17,7 +17,7 @@ url = 0
 # Turn ON/OFF the email alert feature.
 ALERT = True
 # Set mail to receive the real-time alerts. E.g., 'xxx@gmail.com'.
-MAIL = 'aliazthomaz@gmail.com'
+MAIL = 'aneettathomas2727@gmail.com'
 # Set if GPU should be used for computations; Otherwise uses the CPU by default.
 USE_GPU = False
 # Define the max/min safe distance limits (in pixels) between 2 people.
