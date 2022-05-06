@@ -8,7 +8,7 @@ class Mailer:
     def __init__(self):
         # Enter your email below. This email will be used to send alerts.
         # E.g., "email@gmail.com"
-        self.EMAIL = "aliazthomaz@gmail.com"
+        self.EMAIL = "aneettathomas2727@gmail.com"
         # Enter the email password below. Note that the password varies if you have secured
         self.PASS = "cdmenobyhaedqeid"
         self.PORT = 465
